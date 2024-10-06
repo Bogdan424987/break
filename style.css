@@ -3,12 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-.photo-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
-    margin: 20px;
-}
 .container {
     display: flex;
     justify-content: space-between;
